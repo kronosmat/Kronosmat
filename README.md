@@ -34,7 +34,7 @@ Confira meus repositórios para acompanhar meus estudos e projetos práticos.
 
 ## 🤝 Contato
 
-* GitHub: [@cronosmat](https://github.com/cronosmat)
+* GitHub: [@kronosmat](https://github.com/cronosmat)
 * LinkedIn: adicione o link do seu perfil quando estiver pronto.
 
 ---
