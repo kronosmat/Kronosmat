@@ -35,7 +35,8 @@ Confira meus repositórios para acompanhar meus estudos e projetos práticos.
 ## 🤝 Contato
 
 * GitHub: [@kronosmat](https://github.com/cronosmat)
-* LinkedIn: (https://www.linkedin.com/feed?contentTrackingId=I5hdRyd2SFe7U6ANQKPNIg%3D%3D&viewName=premium-nav-upsell-text&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text%3ANav%3AIn-Product)
+* LinkedIn: [Mateus Gabriel](https://www.linkedin.com/in/mateus-gabriel-04ab11210/)
+
 
 ---
 
