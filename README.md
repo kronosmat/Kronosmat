@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, eu sou Mateus Gabriel 👋
 
-<!--
-**kronosmat/Kronosmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor em formação | Java • SQL • Banco de Dados
 
-Here are some ideas to get you started:
+Construindo soluções, aprendendo continuamente e transformando conhecimento em projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+* 📚 Estou desenvolvendo minhas habilidades em **Java**, **SQL** e **bancos de dados**.
+* 🛠️ Tenho interesse em criar aplicações bem estruturadas e resolver problemas por meio da programação.
+* 🌱 Estou em constante aprendizado, buscando evoluir em lógica de programação, orientação a objetos e persistência de dados.
+* 🎯 Meu objetivo é conquistar uma oportunidade como **desenvolvedor júnior**.
+
+## 🧰 Tecnologias
+
+* ☕ **Java**
+* 🗄️ **SQL e bancos de dados**
+* 🐙 **Git e GitHub**
+
+## 🚀 Projetos
+
+Confira meus repositórios para acompanhar meus estudos e projetos práticos.
+
+* **Sistema Hoteleiro:** [Ver repositório](https://github.com/nicthecreator/projeto-sistema-hoteleiro)
+* **VibeDance:** [Ver repositório](https://github.com/SpellmanKing/VibeDance)
+
+## 📈 Atualmente estudando
+
+* Programação orientada a objetos com Java.
+* Consultas SQL e bancos de dados relacionais.
+* Organização de código e controle de versões com Git.
+
+## 🤝 Contato
+
+* GitHub: [@cronosmat](https://github.com/cronosmat)
+* LinkedIn: adicione o link do seu perfil quando estiver pronto.
+
+---
+
+*Aprendizado contínuo. Código limpo. Evolução constante.*
